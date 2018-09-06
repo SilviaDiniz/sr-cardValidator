@@ -1,0 +1,29 @@
+{
+  "name": "sr-cardvalidator",
+  "version": "1.0.0",
+  "description": "**Esta biblioteca se destina à veracidade do cartão de crédito.** Na versão atual verifica se o cartão é válido ou inválido.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.1.2",
+    "nyc": "^13.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[3~\u001b[3\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SilviaDiniz/sr-cardValidator.git"
+  },
+  "author": "Silvia Diniz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SilviaDiniz/sr-cardValidator/issues"
+  },
+  "homepage": "https://github.com/SilviaDiniz/sr-cardValidator#readme"
+}
